@@ -11,7 +11,6 @@ An AI-powered essay grading system designed to automatically evaluate student es
 - **RoBERTa-based Fine-Tuning**: Utilizes a pretrained RoBERTa model for context-aware essay scoring.
 - **Gradio Interface**: Provides a user-friendly frontend where users can input essays and receive a predicted score instantly.
 - **Balanced Dataset**: Includes synthetic data generation via back-translation and synonym replacement to mitigate class imbalance.
-- **Explainable Predictions** *(optional)*: Highlights important parts of the essay influencing the model’s decision.
 
 ---
 
